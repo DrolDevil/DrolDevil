@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DrolDevil
-- 👀 I’m interested in cyber security and game development
-- 🌱 I’m currently learning cyber security and game development
+- 👀 I’m interested in AI, cyber security and game development
+- 🌱 I’m currently learning AI, cyber security and game development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
